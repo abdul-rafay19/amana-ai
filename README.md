@@ -10,7 +10,7 @@
 Amana helps her understand the offer, keeps a tamper-evident record of what she agreed to, and later checks whether the payment
 she received matches it. She stays in control: nothing is saved or sent without her approval.
 
-**Live demo:** `<[PASTE-YOUR-STREAMLIT-LINK-HERE](https://amana-ai.streamlit.app/)>`
+**Live demo:** `<https://amana-ai.streamlit.app>`
 
 ---
 
